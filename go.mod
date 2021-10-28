@@ -1,4 +1,4 @@
-module github.com/kubeflow/manifests
+module github.com/iosurodriguez/manifests
 
 go 1.12
 

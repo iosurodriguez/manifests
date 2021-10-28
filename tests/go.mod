@@ -1,4 +1,4 @@
-module github.com/kubeflow/manifests/tests
+module github.com/iosurodriguez/manifests/tests
 
 go 1.13
 
